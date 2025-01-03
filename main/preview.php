@@ -245,10 +245,11 @@ if($position=='admin') {
 	<div style="width: 100%; height: 19px;" >
 	<div>
 	<center style="margin-left: -21px;">
-	<div style="font:bold 30px 'Aleo';">KITHYOKO AGRICHEM</div>
-	<div style="font:bold 20px 'Aleo';">DEALERS</div>
-	<i style="font-weight: 600;font-size: medium;">Your one stop medical store</i><br>
-	0724102225 | 0710359611 <br>
+		<div style="font:bold 15px 'Aleo';"><i>Michael's</i></div>
+	<div style="font:bold 30px 'Aleo';">MORNING STAR</div>
+	<div style="font:bold 20px 'Aleo';">COMPUTER SERVICES</div>
+	<!--<i style="font-weight: 600;font-size: medium;">Your one stop medical store</i><br>-->
+	+254 711 611817 <br>
 	<i style="font-size: smaller;">bengit1777@gmail.com</i><br>
 	<span style="text-decoration: underline;">Sales Receipt</span><br>	<br>
 	</center>

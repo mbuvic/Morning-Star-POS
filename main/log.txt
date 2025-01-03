@@ -199,3 +199,32 @@
 [2024-11-13 14:28:09] Calculated totals: amount=50, profit=10
 [2024-11-13 14:28:09] Inserted sales order.
 [2024-11-13 14:28:09] Redirecting to sales.php with id=cash and invoice=RS-326203
+[2025-01-03 20:18:08] Received input: bcode=Null, invoice=RS-3332262, product=99, qty=1, pt=cash, date=01/03/25, sellingprice=200
+[2025-01-03 20:18:08] Executed product search query.
+[2025-01-03 20:18:08] Product found: product_id=99, product_code=ButaBoom Extra, product_name= Agro   , gen_name=Booster 1ltr, o_price=120, qty=15
+[2025-01-03 20:18:08] Requested quantity 1 is available.
+[2025-01-03 20:18:08] Using provided selling price: 200
+[2025-01-03 20:18:08] Updated product quantity: Decreased by 1 for product_id=99 or b_code=Null
+[2025-01-03 20:18:08] Calculated totals: amount=200, profit=80
+[2025-01-03 20:18:08] Inserted sales order.
+[2025-01-03 20:18:08] Redirecting to sales.php with id=cash and invoice=RS-3332262
+[2025-01-03 20:18:15] Received parameters: id=630, invoice=RS-3332262, dle=cash, qty=1, code=99
+[2025-01-03 20:18:15] Updated product quantity: Increased by 1 for product_id=99
+[2025-01-03 20:18:15] Deleted sales order entry with transaction_id=630
+[2025-01-03 20:18:22] Received input: bcode=Null, invoice=RS-3332262, product=98, qty=1, pt=cash, date=01/03/25, sellingprice=10
+[2025-01-03 20:18:22] Executed product search query.
+[2025-01-03 20:18:22] Product found: product_id=98, product_code=Diarim, product_name=Human, gen_name=Methylated Spirit, o_price=80, qty=15
+[2025-01-03 20:18:22] Requested quantity 1 is available.
+[2025-01-03 20:18:22] Provided selling price 10 is lower than 80% of the product price.
+[2025-01-03 20:18:33] Received input: bcode=Null, invoice=RS-3332262, product=98, qty=1, pt=cash, date=01/03/25, sellingprice=150
+[2025-01-03 20:18:33] Executed product search query.
+[2025-01-03 20:18:33] Product found: product_id=98, product_code=Diarim, product_name=Human, gen_name=Methylated Spirit, o_price=80, qty=15
+[2025-01-03 20:18:33] Requested quantity 1 is available.
+[2025-01-03 20:18:33] Using provided selling price: 150
+[2025-01-03 20:18:33] Updated product quantity: Decreased by 1 for product_id=98 or b_code=Null
+[2025-01-03 20:18:33] Calculated totals: amount=150, profit=70
+[2025-01-03 20:18:33] Inserted sales order.
+[2025-01-03 20:18:33] Redirecting to sales.php with id=cash and invoice=RS-3332262
+[2025-01-03 20:18:48] Received POST variables: invoice=RS-3332262, cashier=Ben Gitau, date=01/03/25, ptype=cash, amount=150, profit=70, cname=charles, tdisc=0, pmethod=Cash, discount=0
+[2025-01-03 20:18:48] Inserted into sales table for cash payment.
+[2025-01-03 20:18:48] Inserted new customer charles into customer table.
