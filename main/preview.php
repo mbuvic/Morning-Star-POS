@@ -411,7 +411,7 @@ if($position=='admin') {
 	</div>
 	</div>
 	<div style="font-size: small;"  align="center"><b>You were served by: <?php echo $_SESSION['SESS_FIRST_NAME'];?>.</b></div>
-	<div style="font-size: small;"  align="center">Best wishes and quick recovery.</div>
+	<div style="font-size: small;"  align="center">Thankyou for your purchase.</div>
 	<hr>
 	<div style="font-size: small;"  align="center"><i>POS system by: Morning Star Softwares (MSS)</i><br> 0711611817</div>
 	</div>
